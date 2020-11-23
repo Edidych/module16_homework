@@ -1,0 +1,19 @@
+{
+    "name": "module16_homework",
+    "version": "1.0.0",
+    "description": "js examples for pratick",
+    "main": "practicks.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Edidych/module16_homework"
+    },
+    "author": "Edidych",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Edidych/module16_homework/issues"
+    },
+    "homepage": "https://github.com/Edidych/module16_homework#readme",
+  }
